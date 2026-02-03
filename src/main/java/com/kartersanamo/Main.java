@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    // Scanner & random that can be accessed anywhere
+    // Scanner that can be accessed anywhere
     public static Scanner scanner = new Scanner(System.in);
 
     static void main() {
